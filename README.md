@@ -1,5 +1,9 @@
 # Northwinds
 
+this project is a training example based on the article at this site 
+https://www.codementor.io/antonselin/consume-odata-service-restful-angular-2-uj1i6szsw
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.
 
 ## Development server
